@@ -1,0 +1,2 @@
+def spell():
+    return "spell"

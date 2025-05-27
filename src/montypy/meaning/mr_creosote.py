@@ -1,0 +1,2 @@
+def better():
+    return "better"
